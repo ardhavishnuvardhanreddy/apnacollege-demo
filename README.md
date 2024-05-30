@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is git repository
 <br>
-Author-vishnu
+Author-vishnu vardhan reddy
